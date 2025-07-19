@@ -95,7 +95,7 @@ const Hero: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start items-center">
               <a
-                href="https://drive.google.com/file/d/1k7xYN3QOP6KggVUt-rKa55mDRlAnZWxt/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1oSdkuB4dwbJTwI2xK-7GYl4KDsqz2PeS/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-[#089cf1] to-[#11efef] text-white px-8 py-4 rounded-full hover:shadow-xl transition-all duration-300 flex items-center space-x-3 group hover:scale-105"
